@@ -9,4 +9,4 @@ The storage account is then used as our "backend"
 
 We keep it simple, creating another storage account and uploading a file to it with Terraform
 
-
+sample copy
